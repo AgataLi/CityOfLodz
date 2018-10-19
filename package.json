@@ -16,5 +16,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-   "homepage": "https://imię.github.io/nazwa"
+   "homepage": "https://agatali.github.io/CityOfLodz/"
 }
