@@ -12,9 +12,24 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
+<<<<<<< HEAD
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
    "homepage": "https://imię.github.io/nazwa"
 }
+||||||| merged common ancestors
+    "eject": "react-scripts eject"
+  }
+}
+=======
+    "eject": "react-scripts eject"
+  },
+  
+  {
+  "homepage": "https://agatali.github.io/CityOfLodz/",
+  }
+ 
+}
+>>>>>>> f20db754a4f7b99fad6d805d59994bb69126ce6e
